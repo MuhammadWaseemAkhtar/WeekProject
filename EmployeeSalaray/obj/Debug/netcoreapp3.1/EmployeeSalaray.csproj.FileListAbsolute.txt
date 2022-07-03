@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\bin\Debug\netcoreapp3.1\EmployeeSalaray.exe
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\bin\Debug\netcoreapp3.1\EmployeeSalaray.deps.json
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\bin\Debug\netcoreapp3.1\EmployeeSalaray.runtimeconfig.json
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\bin\Debug\netcoreapp3.1\EmployeeSalaray.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\bin\Debug\netcoreapp3.1\EmployeeSalaray.dll
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\bin\Debug\netcoreapp3.1\EmployeeSalaray.pdb
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\obj\Debug\netcoreapp3.1\EmployeeSalaray.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\obj\Debug\netcoreapp3.1\EmployeeSalaray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\obj\Debug\netcoreapp3.1\EmployeeSalaray.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\obj\Debug\netcoreapp3.1\EmployeeSalaray.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\obj\Debug\netcoreapp3.1\EmployeeSalaray.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\obj\Debug\netcoreapp3.1\EmployeeSalaray.dll
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\obj\Debug\netcoreapp3.1\EmployeeSalaray.pdb
+C:\Users\DELL\source\repos\EmployeeSalaray\EmployeeSalaray\obj\Debug\netcoreapp3.1\EmployeeSalaray.genruntimeconfig.cache

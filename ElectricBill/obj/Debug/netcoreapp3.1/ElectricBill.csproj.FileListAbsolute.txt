@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\bin\Debug\netcoreapp3.1\ElectricBill.exe
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\bin\Debug\netcoreapp3.1\ElectricBill.deps.json
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\bin\Debug\netcoreapp3.1\ElectricBill.runtimeconfig.json
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\bin\Debug\netcoreapp3.1\ElectricBill.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\bin\Debug\netcoreapp3.1\ElectricBill.dll
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\bin\Debug\netcoreapp3.1\ElectricBill.pdb
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\obj\Debug\netcoreapp3.1\ElectricBill.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\obj\Debug\netcoreapp3.1\ElectricBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\obj\Debug\netcoreapp3.1\ElectricBill.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\obj\Debug\netcoreapp3.1\ElectricBill.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\obj\Debug\netcoreapp3.1\ElectricBill.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\obj\Debug\netcoreapp3.1\ElectricBill.dll
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\obj\Debug\netcoreapp3.1\ElectricBill.pdb
+C:\Users\DELL\source\repos\EmployeeSalaray\ElectricBill\obj\Debug\netcoreapp3.1\ElectricBill.genruntimeconfig.cache
